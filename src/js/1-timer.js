@@ -29,7 +29,6 @@ const options = {
         backgroundColor: '#B51B1B',
         messageColor: '#FFFFFF',
         position: 'topRight',
-        iconUrl: './img/icon.svg',
         iconColor: '#FFFFFF',
         color: '#FFFFFF',
       });
